@@ -46,7 +46,7 @@ After training, test the learned policy with:
 ```
 testDQN_phase1.py
 ```
-<video src="plots/video/phase2/phase2_final_1_2xSpeed.mp4" controls title="Title"></video>
+![Alt text](phase2_final_1_2xSpeed.gif)
 
 ### Plots
 
